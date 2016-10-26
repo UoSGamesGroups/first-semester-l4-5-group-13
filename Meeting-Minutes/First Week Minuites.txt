@@ -1,0 +1,33 @@
+Sprint One
+
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom-absent due to confirmed back injury (pulled muscles earlier in the day), was for there for presentation and knows he is being set tasks.
+
+Presentation Summary:
+The monochopsis combined with the procedural generation was well recieved. The Ruckenwhatever was not as strong however. 
+Art-wise, it was reccomended to scale down the enviroments. It was also reccomended that we focus on the monochopsis and creating an air of not knowing what will happen next.
+
+Meeting:
+Tasks:
+
+Kenny
+Get the prototype of the procedural map generation working with route detection (aka making sure it will only generate paths the player can actually follow). Time:3 hours (Will allow time if needed as this is a vital task)
+Protoype movement and physics. Time:3 Hours (This will be more finalised than the map generation)
+
+Tom
+Design and create the layout for 6 chunks for the artists to later create. Time:3 Hours
+Concept the storefront again for the artists to draw later. Time:3 hours (It's a vital area so it should look good, thus the extra time allotted)
+
+Jamie
+Create game ready art assets for various objects (As many as can be finished in the time). Time:3 Hours
+Design and create the layout for 6 chunks for the artists to later create. Time:3 Hours
+
+Doug
+Concept ideas for player character. Time:1.5 hours (will show the resulting character to the rest of the group to vote on the best design)
+Create art for the top rated character:1.5 hours
+Basic animations for main character:3 hours (Walking, jumping, idle loop)

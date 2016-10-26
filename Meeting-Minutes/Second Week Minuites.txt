@@ -1,0 +1,63 @@
+Sprint Two
+
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom
+
+Summary of meeting with Chris:
+Chris looked at the procedural generation and believed it looked good but said we needed to implement a rules system 
+for the different types of chunks. Specifically, making sure that the chunks make sense to sense to the player
+in terms of orientation and positioning.
+
+Chris also went over some ideas for an improved movement system using raycasting, and Kenny feels confident
+he can make those changes.
+ 
+Meeting:
+
+First discussion: Map generation rules
+
+Players are not going to have to walk back through already explored levels once the artifact has been collected. 
+When entering a new chunk, the entrance location will be opposite to the direction exited from the last room,
+EG. if the player exits one room from the left, they will enter the next one from the right.
+Rooms will be omnidirectional, and must be completeable no matter which direction they are entered from.
+The chunks themselves will be manually designed.
+
+Second discussion: Emotions
+
+WHile one of the emotions was ok, the second emotion (returning from a journey to find it fading from memory) is 
+weaker.
+
+
+
+
+Tasks:
+
+Kenny
+Setup the rules for chunk generation to ensure that the maps generate in a way that can be completed. 
+It should also include rules for larger chunks. Time: 4 hours
+Also generate the artifact at the end of the route. Time: 1 hour
+Improve player movement as much as possible. Time: 1 hour
+
+Tom
+Design 3 horizontal dead end pieces. Time: 1 hour
+Design 3 T-Junction pieces. Time: 1 hour
+Design 3 Corridor pieces. Time: 1 hour
+Design 3 Crossroad pieces. Time: 1 hour
+Research sounds (music and sfx). Time: 2 hours
+
+Jamie
+Design 3 horizontal dead end pieces. Time: 1 hour
+Design 3 T-Junction pieces. Time: 1 hour
+Design 3 Corridor pieces. Time: 1 hour
+Design 3 Crossroad pieces. Time: 1 hour
+Draw art for more random objects/artifacts. Time: 2 hours
+
+Doug
+Art for store front. Time: 2 hours
+Art/animations for obstacles. Time: 2 hours
+Animations for jumping/climbing for Top Hat. Time: 2 hours
+

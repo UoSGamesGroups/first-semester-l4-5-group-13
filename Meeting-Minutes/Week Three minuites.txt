@@ -1,0 +1,61 @@
+Sprint Threee
+ 
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom
+
+Summary of meeting with Dave:
+Need to focus platforming over searching. The player cannot make an informed decision on which way to go. 
+
+Meeting:
+
+First Discussion:
+Mapping/player navigation:
+Following the points made in the meeting, we discussed the issue of the player's navigation. Ideas brought up included a compass that would point to the end goal without showing the actual route or removing branching paths entirely.
+Since the paths should always connect to the end goal anyway, and a minimap is planned to aid navigation, we do not belive this will require extra attention since attempting to locate the artifact through the maze of rooms is part
+of the experience.
+
+We have definately decided to focus on the platforming, avoiding obstacles ect.
+
+Second Discussion:
+Discussing obstacles for the platforming. 
+
+Static obstacles such as broken sharp antiques, some kind of doll that could act as a hazard, broken furnature, fireplaces that are still burning, collapsing rotten beams, animal heads
+on the wall ect.
+
+Ranged obstacles could include old muskets that would fire, haunted neclaces that could attack in some form, a bookcase that launches books, musical instruments that blast sound, swinging chandeliers ect.
+
+Platforming aids could include bouncy beds, huge fuzzy rugs that slow the player, wooden beams, stacks of boxes, suits of armour who use sheilds as platforms ect.
+
+
+
+
+
+Tasks:
+
+
+Kenny
+
+Modify code to reduce number of branching paths in general. Time: 3 hours (Done by sunday)
+Add Minimap. Time: 3 hours (Done by tuesday evening)
+
+Tom
+
+
+Design art for more obstacles. Time: 3 hours (Done by Sunday)
+Find more sound assets for all objects/obstacles mentioned. Time: 3 hours (Done by tuesday evening)
+
+Jamie
+
+Work on UI including Health, a frame for the minimap and the object they are looking for. Time: 3 hours (Done by saturday evening)
+Draw some of the artifacts the player will be looking for. Time: 3 hours (Done by tuesday evening)
+
+Douglas
+
+Create Templates for obstacle sizes. Time: 30 Mins (Done by thursday)
+Create prefab art for platforms, beams, floor tiles ect. for mass production of levels. Time: 2.5 Hours (Done by Sunday Evening)
+Assemble some chunks using existing art and concepts. Time: 3 hours (Done by Tuesday Evening)

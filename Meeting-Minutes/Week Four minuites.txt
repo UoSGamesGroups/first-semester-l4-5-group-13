@@ -1,0 +1,48 @@
+Sprint Four
+ 
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom
+
+Summary of meeting with Eddie: Went over our presentation skills, feedback was mostly good but we were given several suggestions to improve our presentations.
+
+First discussion:
+Decided on player jump hieght, should be capable of jumping up to just above his waist while standing. Player should also be able to duck under obstacles.
+
+Second Discussion:
+Minimap will be a second camera looking at the level layout, with un-explored rooms blacked out
+
+Third Discussion:
+We will be constructing a mockup of a level for use in the presentation next week
+
+Fourth Discussion:
+Possiblitly of a dark store-front, like it was set at night time.
+
+Tasks:
+
+
+Kenny
+
+Make minimap presentable. Time: 3 hours. Date: Sunday
+Make level mockup with working obstacles ect. Time: 3 hours, Date: Tues. Night
+
+Tom
+
+Make more obstacles. Time: 3 hours. Date: Sunday
+Mockup title screen. Time: 3 hours. Date: Tuesday
+
+
+Jamie
+
+Mockup UI. Time: 1 hour. Date: Friday
+Create UI for minimap border. Time: 2 hour. Date: Saturday
+Make assets for menus. Time: 3 hours. Date: Tuesday
+
+Douglas
+
+Make chunks for T-junctions, Cross junctions and L-Bends. In some, the lights are out. Time: 4 hours. Date: Sunday
+Make more prefab parts for levels, including some parts to vary the background and windows. Time: 2 hours. Date: Tuesday.

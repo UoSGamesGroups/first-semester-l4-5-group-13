@@ -1,0 +1,40 @@
+Sprint Five
+ 
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom
+
+Summary of meeting with Rob: Went very well, however we found that you cannot play EXE files on the machines in
+the meeting room and have to instead bring in a recording of our current game.
+
+We have decided that since all is on track, we did not to discuss anything new and instead will continue to create
+assets and work on the game.
+
+Tasks: 
+
+Kenny
+
+Transition between chunks: 2 hours
+Get level generation complets (Start in storefront, go through level, collect artifact, restart): 3 hours
+Ladder movement: 1 hour
+
+Tom
+
+Concept levels that would use the wall jumping mechanic. Time: 3 hours
+Create art for wall jumping related obstacles. Time: 3 hours
+
+Jamie
+
+Concept levels that would use the wall jumping mechanic. Time: 3 hours
+Work on the menu screens. Time: 3 hours
+
+Douglas
+
+Create the chunks based on Tom's concepts. Time: 4 hours
+Create windows with animated backgrouns. Time: 1 hour
+Create ranged obstacles. Time: 1 hour
+Extra task: Create short video of demo footage, upload to git-hub

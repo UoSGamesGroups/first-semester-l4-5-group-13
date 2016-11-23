@@ -1,0 +1,30 @@
+Sprint Six
+ 
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom absent due to injury
+
+Tasks:
+
+Kenny:
+
+Keep working on getting the game ready to be playable from start to finish: Time: 4 hours
+Work on colliders for existing levels: Time: 2 hours
+
+Tom:
+
+Put the artifacts in speech bubbles for the cutscenes. Time: 1 hour
+Start to source a collection of sound assets including music and SFX: Time: 5 hours
+
+Jamie:
+
+Finalise UI: 6 hours
+
+Douglas:
+
+Create 2-3 NPC's who will come into the shop and ask for items: Time: 3 hours
+Create the oversized vertical level chunks based on the concepts: Time: 3 hours 

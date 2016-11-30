@@ -1,0 +1,34 @@
+Sprint Seven
+ 
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Kenny
+Tom
+
+Summary of meeting of Dave: Have been told to focus on getting what we have working instead of adding
+more. Art direction was appreciated. Mechanics were also well recieved though not nessacarily the
+best choice given the brief
+
+Tasks:
+
+Kenny:
+Get the game to the state where it can be played from start to finish. Time: 4 hours
+Get as much done on the main menu as possible. Time: 2 hours
+
+Tom:
+Collect any more sound assets required. Time: 2 hours
+Create as many more artifacts as possible. Time: 4 hours
+
+Jamie:
+Continue UI work. Time: 3 hours
+Management work (eg re-organising/tidying the github). Time: 2 hours
+Contingency work (aka quality control). Time: 1 hours
+
+Douglas:
+Re-draw storefront. Time: 3 hours
+Add final character animations (Wall jump, improved idle, taking hit animation) Time: 3 hours
+
+

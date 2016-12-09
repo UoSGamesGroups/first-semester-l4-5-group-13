@@ -1,0 +1,34 @@
+Minuites
+
+Minuites
+
+Attendance:
+Douglas
+Jamie
+Tom
+Kenny was in the hospital so not present
+
+Summary of meeting with Rob: Actual meeting called off due to Rob being unwell. Feedback through emails suggested out biggest problem was not stating
+how long taks were taken or if they were completed.
+
+Tasks:
+
+Kenny
+Implement the rest of the animations for Obstacles and NPC's: Time 2 hours
+Implement the sounds: Time 2 hours
+Get colliders done on the newest level chunks: Time 2 hours
+
+Jamie
+Assemble final presentation: Time 2 hours
+Contingency work: Time 2 hours
+Management tasks: Time 2 hours
+
+Douglas
+Record footage of the finished game version: Time 2 hours
+Cleanup on art assets: Time 2 hours
+Test final version of game: Time 2 hours
+
+Tom
+Test final version of game: Time 3 hours
+Report on any located bugs: Time 1 hour
+Once we have it, get others to test the game and report on it, maybe record as well: Time 2 hours

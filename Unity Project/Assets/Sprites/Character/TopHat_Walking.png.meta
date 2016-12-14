@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: b05ec3559dc6e114d8fabc502330f42f
+timeCreated: 1481597848
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopHat_Walking_0
+    21300002: TopHat_Walking_1
+    21300004: TopHat_Walking_2
+    21300006: TopHat_Walking_3
+    21300008: TopHat_Walking_4
+    21300010: TopHat_Walking_5
+    21300012: TopHat_Walking_6
+    21300014: TopHat_Walking_7
+    21300016: TopHat_Walking_8
+    21300018: TopHat_Walking_9
+    21300020: TopHat_Walking_19
+    21300022: TopHat_Walking_18
+    21300024: TopHat_Walking_17
+    21300026: TopHat_Walking_16
+    21300028: TopHat_Walking_15
+    21300030: TopHat_Walking_14
+    21300032: TopHat_Walking_13
+    21300034: TopHat_Walking_12
+    21300036: TopHat_Walking_11
+    21300038: TopHat_Walking_10
+    21300040: TopHat_Walking_20
+    21300042: TopHat_Walking_21
+    21300044: TopHat_Walking_22
+    21300046: TopHat_Walking_23
+    21300048: TopHat_Walking_24
+    21300050: TopHat_Walking_25
+    21300052: TopHat_Walking_26
+    21300054: TopHat_Walking_27
+    21300056: TopHat_Walking_28
+    21300058: TopHat_Walking_29
+    21300060: TopHat_Walking_30
+    21300062: TopHat_Walking_31
+    21300064: TopHat_Walking_32
+    21300066: TopHat_Walking_33
+    21300068: TopHat_Walking_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopHat_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 198
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 198
+        width: 15
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 15
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 198
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 198
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 198
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 198
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 198
+        width: 17
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 134
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 134
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 134
+        width: 18
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 134
+        width: 15
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 134
+        width: 15
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 134
+        width: 16
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 134
+        width: 19
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Walking_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 17
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 2123f9d54f8c3e64f8a30a9d97badb5c
+timeCreated: 1481598356
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TopHat_Idle_Improved_1
+    21300002: TopHat_Idle_Improved_2
+    21300004: TopHat_Idle_Improved_3
+    21300006: TopHat_Idle_Improved_4
+    21300008: TopHat_Idle_Improved_5
+    21300010: TopHat_Idle_Improved_6
+    21300012: TopHat_Idle_Improved_7
+    21300014: TopHat_Idle_Improved_8
+    21300016: TopHat_Idle_Improved_9
+    21300018: TopHat_Idle_Improved_10
+    21300020: TopHat_Idle_Improved_11
+    21300022: TopHat_Idle_Improved_12
+    21300024: TopHat_Idle_Improved_13
+    21300026: TopHat_Idle_Improved_14
+    21300028: TopHat_Idle_Improved_16
+    21300030: TopHat_Idle_Improved_17
+    21300032: TopHat_Idle_Improved_18
+    21300034: TopHat_Idle_Improved_19
+    21300036: TopHat_Idle_Improved_20
+    21300038: TopHat_Idle_Improved_21
+    21300040: TopHat_Idle_Improved_22
+    21300042: TopHat_Idle_Improved_23
+    21300044: TopHat_Idle_Improved_24
+    21300046: TopHat_Idle_Improved_26
+    21300048: TopHat_Idle_Improved_27
+    21300050: TopHat_Idle_Improved_28
+    21300052: TopHat_Idle_Improved_29
+    21300054: TopHat_Idle_Improved_30
+    21300056: TopHat_Idle_Improved_31
+    21300058: TopHat_Idle_Improved_32
+    21300060: TopHat_Idle_Improved_33
+    21300062: TopHat_Idle_Improved_34
+    21300064: TopHat_Idle_Improved_35
+    21300066: TopHat_Idle_Improved_36
+    21300068: TopHat_Idle_Improved_37
+    21300070: TopHat_Idle_Improved_38
+    21300072: TopHat_Idle_Improved_39
+    21300074: TopHat_Idle_Improved_41
+    21300076: TopHat_Idle_Improved_42
+    21300078: TopHat_Idle_Improved_43
+    21300080: TopHat_Idle_Improved_44
+    21300082: TopHat_Idle_Improved_45
+    21300084: TopHat_Idle_Improved_46
+    21300086: TopHat_Idle_Improved_47
+    21300088: TopHat_Idle_Improved_48
+    21300090: TopHat_Idle_Improved_49
+    21300092: TopHat_Idle_Improved_0
+    21300094: TopHat_Idle_Improved_15
+    21300096: TopHat_Idle_Improved_25
+    21300098: TopHat_Idle_Improved_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 453
+        width: 14
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 453
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 453
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 453
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 453
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 453
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 453
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 453
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 453
+        width: 26
+        height: 58
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 453
+        width: 23
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 453
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 453
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.17, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 453
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 453
+        width: 23
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 390
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 390
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 390
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 390
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 390
+        width: 14
+        height: 58
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 390
+        width: 13
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 327
+        width: 14
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 327
+        width: 17
+        height: 58
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 327
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 327
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 327
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 327
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.76, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 327
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 327
+        width: 27
+        height: 58
+      alignment: 9
+      pivot: {x: 0.84, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 327
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 327
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 327
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 327
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 327
+        width: 23
+        height: 58
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 24
+        height: 58
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 264
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 264
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 264
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 264
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.73, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 264
+        width: 18
+        height: 58
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 264
+        width: 14
+        height: 58
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 13
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 13
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.19, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 327
+        width: 13
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TopHat_Idle_Improved_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 25
+        height: 58
+      alignment: 9
+      pivot: {x: 0.83, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Github Clone\first-semester-l4-5-group-13\Unity Project\Demo_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.413695 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.363536 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2807.
+Total: 0.455619 ms (FindLiveObjects: 0.037586 ms CreateObjectMapping: 0.101918 ms MarkObjects: 0.303585 ms  DeleteObjects: 0.011324 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740411 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2807.
+Total: 0.498507 ms (FindLiveObjects: 0.035418 ms CreateObjectMapping: 0.086497 ms MarkObjects: 0.369844 ms  DeleteObjects: 0.006264 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.471039 ms
+
+Unloading 2599 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.611267 ms (FindLiveObjects: 0.037345 ms CreateObjectMapping: 0.086979 ms MarkObjects: 0.091075 ms  DeleteObjects: 0.395866 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 580 -> priority: 1 
+  Thread -> id: 353c -> priority: 1 
+  Thread -> id: 4134 -> priority: 1 

@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 53a50d667e9642641bd80589fd351bea
+timeCreated: 1481600992
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wall Jump_0
+    21300002: Wall Jump_1
+    21300004: Wall Jump_2
+    21300006: Wall Jump_3
+    21300008: Wall Jump_4
+    21300010: Wall Jump_5
+    21300012: Wall Jump_6
+    21300014: Wall Jump_7
+    21300016: Wall Jump_8
+    21300018: Wall Jump_9
+    21300020: Wall Jump_10
+    21300022: Wall Jump_11
+    21300024: Wall Jump_12
+    21300026: Wall Jump_13
+    21300028: Wall Jump_14
+    21300030: Wall Jump_15
+    21300032: Wall Jump_16
+    21300034: Wall Jump_17
+    21300036: Wall Jump_18
+    21300038: Wall Jump_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 198
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 198
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 135
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 135
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 134
+        width: 22
+        height: 59
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 133
+        width: 18
+        height: 60
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 67
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 21
+        height: 58
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 19
+        height: 58
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 20
+        height: 58
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 21
+        height: 58
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 22
+        height: 58
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 22
+        height: 59
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wall Jump_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 18
+        height: 60
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
